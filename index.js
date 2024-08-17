@@ -22,6 +22,7 @@ function agregarMuebles(mueble) {
 agregarMuebles(respaldo);
 
 console.log(muestraDeMuebles);
+
 function seleccionarYEliminarMueble() {
   let mensaje = "Ingrese el número del mueble deseado:\n\n";
   
